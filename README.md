@@ -16,6 +16,7 @@ Mapping tool for [*EVE ONLINE*](https://www.eveonline.com)
   - Database will be cleared from time to time
 - Installation guide:
   - [wiki](https://github.com/exodus4d/pathfinder/wiki)
+  - [step by step instructions](https://github.com/Selineanna/pathfinder/wiki)
 - Developer [Slack](https://slack.com) chat:
   - https://pathfinder-eve-online.slack.com
   - Please send me a mail for invite: pathfinder@exodus4d.de
